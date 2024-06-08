@@ -5,7 +5,10 @@ Develop the `booleanize` function so it transforms an object's properties based 
 
 ### Function
 ```javascript
-function booleanize(obj)
+function booleanize(obj){
+ 
+  }
+
 ```
 
 #### Parameters
